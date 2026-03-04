@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "unbound",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "b44b4ec3-e76f-4470-8ccf-d0d3120017fd",
+			"database_name": "unbound"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
